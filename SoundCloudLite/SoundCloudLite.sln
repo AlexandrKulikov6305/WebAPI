@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudLite.BLL", "SoundCloudLite.BLL\SoundCloudLite.BLL.csproj", "{2A7356C9-0E32-46F5-8BD9-B22AD7A5A2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudLite.Domain", "SoundCloudLite.Domain\SoundCloudLite.Domain.csproj", "{8B63BCA0-2C20-4FA9-A5A8-56BB50C5D452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudLite.DTO", "SoundCloudLite.DTO\SoundCloudLite.DTO.csproj", "{D6D6D4D8-6BCA-4D3B-9EC0-250C19A8831F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudLite.DAL", "SoundCloudLite.DAL\SoundCloudLite.DAL.csproj", "{CC4FFD42-01DD-491D-BF59-B9FE7AB7977E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudLite.BLL.Test", "SoundCloudLite.BLL.Test\SoundCloudLite.BLL.Test.csproj", "{C87B2AAA-3653-4927-B2E0-7E6E7AFBA297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudLite.API", "SoundCloudLite.API\SoundCloudLite.API.csproj", "{6CB513C4-CA76-4792-A1EB-2DD845119844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7356C9-0E32-46F5-8BD9-B22AD7A5A2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7356C9-0E32-46F5-8BD9-B22AD7A5A2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7356C9-0E32-46F5-8BD9-B22AD7A5A2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7356C9-0E32-46F5-8BD9-B22AD7A5A2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B63BCA0-2C20-4FA9-A5A8-56BB50C5D452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B63BCA0-2C20-4FA9-A5A8-56BB50C5D452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B63BCA0-2C20-4FA9-A5A8-56BB50C5D452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B63BCA0-2C20-4FA9-A5A8-56BB50C5D452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D6D4D8-6BCA-4D3B-9EC0-250C19A8831F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D6D4D8-6BCA-4D3B-9EC0-250C19A8831F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D6D4D8-6BCA-4D3B-9EC0-250C19A8831F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D6D4D8-6BCA-4D3B-9EC0-250C19A8831F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4FFD42-01DD-491D-BF59-B9FE7AB7977E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4FFD42-01DD-491D-BF59-B9FE7AB7977E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4FFD42-01DD-491D-BF59-B9FE7AB7977E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4FFD42-01DD-491D-BF59-B9FE7AB7977E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87B2AAA-3653-4927-B2E0-7E6E7AFBA297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87B2AAA-3653-4927-B2E0-7E6E7AFBA297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87B2AAA-3653-4927-B2E0-7E6E7AFBA297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87B2AAA-3653-4927-B2E0-7E6E7AFBA297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB513C4-CA76-4792-A1EB-2DD845119844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB513C4-CA76-4792-A1EB-2DD845119844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB513C4-CA76-4792-A1EB-2DD845119844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB513C4-CA76-4792-A1EB-2DD845119844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
